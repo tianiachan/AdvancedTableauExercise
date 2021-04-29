@@ -177,7 +177,7 @@
             <SelectField field="Provider Type" selected="True" />
             <SelectField field="Provider Resides in Hospital" selected="True" rename="In Hospital" />
             <SelectField field="Legal Business Name" selected="True" />
-            <SelectField field="Date First Approved to Provide Medicare and Medicaid Services" selected="True" rename="Date of Approval" />
+            <SelectField field="Date First Approved to Provide Medicare and Medicaid Services" selected="True" rename="Date of Approval" type="Date" size="10" />
             <SelectField field="Continuing Care Retirement Community" selected="True" />
             <SelectField field="Abuse Icon" selected="True" />
             <SelectField field="Most Recent Health Inspection More Than 2 Years Ago" selected="True" />
