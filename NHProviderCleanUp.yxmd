@@ -128,7 +128,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\Tiania\AppData\Local\Temp\Engine_5604_f06545d69bf24f838f89df9c8e176f1f_\Engine_9088_7bbf2a705a8d482096980275067c1dc1_.yxdb</TempFile>
+          <TempFile>C:\Users\Tiania\AppData\Local\Temp\Engine_4628_52b56649275d4e828b7d9ed3a308ef7a_\Engine_13324_4ccb57eff2444b38bd6e0d968aca7bfa_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -266,12 +266,10 @@
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
+          <AnnotationText>output to csv</AnnotationText>
           <DefaultAnnotationText>NHMarch2021stats.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
     </Node>
